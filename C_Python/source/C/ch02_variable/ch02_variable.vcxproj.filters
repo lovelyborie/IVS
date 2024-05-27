@@ -30,5 +30,14 @@
     <ClCompile Include="ex4_printf.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ex5.1_scanf_s수입력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex5.2_scanf_s문자열입력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex6_project.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

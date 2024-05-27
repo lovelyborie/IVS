@@ -132,6 +132,9 @@
     <ClCompile Include="ex2.3_실수형.c" />
     <ClCompile Include="ex3_상수.c" />
     <ClCompile Include="ex4_printf.c" />
+    <ClCompile Include="ex5.1_scanf_s수입력.c" />
+    <ClCompile Include="ex5.2_scanf_s문자열입력.c" />
+    <ClCompile Include="ex6_project.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
